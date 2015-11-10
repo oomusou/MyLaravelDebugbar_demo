@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mylaraveldebugbar-demo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/mylaraveldebugbar-demo","hostpath":"/Users/oomusou/Code/Demo/MyLaravelDebugbar_demo","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oomusou/Code/Demo/MyLaravelDebugbar_demo","disabled":false}}}
